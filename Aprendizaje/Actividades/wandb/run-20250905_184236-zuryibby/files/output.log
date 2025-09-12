@@ -1,0 +1,10 @@
+Epoch 1: Train acc (dropout)=0.9666, Train acc (eval)=0.9666, Val acc=0.9633
+Epoch 2: Train acc (dropout)=0.9775, Train acc (eval)=0.9775, Val acc=0.9709
+Epoch 3: Train acc (dropout)=0.9858, Train acc (eval)=0.9858, Val acc=0.9742
+Epoch 4: Train acc (dropout)=0.9889, Train acc (eval)=0.9889, Val acc=0.9775
+Epoch 5: Train acc (dropout)=0.9920, Train acc (eval)=0.9920, Val acc=0.9774
+Epoch 6: Train acc (dropout)=0.9914, Train acc (eval)=0.9914, Val acc=0.9759
+Epoch 7: Train acc (dropout)=0.9947, Train acc (eval)=0.9947, Val acc=0.9800
+Epoch 8: Train acc (dropout)=0.9959, Train acc (eval)=0.9959, Val acc=0.9787
+Epoch 9: Train acc (dropout)=0.9946, Train acc (eval)=0.9946, Val acc=0.9779
+Epoch 10: Train acc (dropout)=0.9969, Train acc (eval)=0.9969, Val acc=0.9800

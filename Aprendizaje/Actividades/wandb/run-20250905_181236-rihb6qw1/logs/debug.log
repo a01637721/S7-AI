@@ -1,0 +1,21 @@
+2025-09-05 18:12:36,906 INFO    MainThread:6944 [wandb_init.py:setup_run_log_directory():686] Logging user logs to C:\Users\USUARIO\Desktop\SemestreVII\Aprendizaje\wandb\run-20250905_181236-rihb6qw1\logs\debug.log
+2025-09-05 18:12:36,906 INFO    MainThread:6944 [wandb_init.py:setup_run_log_directory():687] Logging internal logs to C:\Users\USUARIO\Desktop\SemestreVII\Aprendizaje\wandb\run-20250905_181236-rihb6qw1\logs\debug-internal.log
+2025-09-05 18:12:36,906 INFO    MainThread:6944 [wandb_init.py:init():813] calling init triggers
+2025-09-05 18:12:36,907 INFO    MainThread:6944 [wandb_init.py:init():818] wandb.init called with sweep_config: {}
+config: {'_wandb': {}}
+2025-09-05 18:12:36,907 INFO    MainThread:6944 [wandb_init.py:init():854] starting backend
+2025-09-05 18:12:36,907 INFO    MainThread:6944 [wandb_init.py:init():857] sending inform_init request
+2025-09-05 18:12:36,914 INFO    MainThread:6944 [wandb_init.py:init():865] backend started and connected
+2025-09-05 18:12:36,919 INFO    MainThread:6944 [wandb_init.py:init():936] updated telemetry
+2025-09-05 18:12:36,929 INFO    MainThread:6944 [wandb_init.py:init():960] communicating run to backend with 90.0 second timeout
+2025-09-05 18:12:37,382 INFO    MainThread:6944 [wandb_init.py:init():1011] starting run threads in backend
+2025-09-05 18:12:37,789 INFO    MainThread:6944 [wandb_run.py:_console_start():2494] atexit reg
+2025-09-05 18:12:37,790 INFO    MainThread:6944 [wandb_run.py:_redirect():2342] redirect: wrap_raw
+2025-09-05 18:12:37,790 INFO    MainThread:6944 [wandb_run.py:_redirect():2411] Wrapping output streams.
+2025-09-05 18:12:37,790 INFO    MainThread:6944 [wandb_run.py:_redirect():2434] Redirects installed.
+2025-09-05 18:12:37,792 INFO    MainThread:6944 [wandb_init.py:init():1057] run started, returning control to user process
+2025-09-05 18:14:56,757 INFO    MainThread:6944 [wandb_run.py:_finish():2260] finishing run a01637721-tec-de-monterrey/mnist-multiclase/rihb6qw1
+2025-09-05 18:14:56,757 INFO    MainThread:6944 [wandb_run.py:_atexit_cleanup():2459] got exitcode: 0
+2025-09-05 18:14:56,759 INFO    MainThread:6944 [wandb_run.py:_restore():2441] restore
+2025-09-05 18:14:56,759 INFO    MainThread:6944 [wandb_run.py:_restore():2447] restore done
+2025-09-05 18:14:57,365 INFO    MainThread:6944 [wandb_run.py:_footer_sync_info():3855] logging synced files

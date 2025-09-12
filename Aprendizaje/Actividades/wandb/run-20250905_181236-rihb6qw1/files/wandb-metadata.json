@@ -1,0 +1,24 @@
+{
+  "os":  "Windows-10-10.0.19045-SP0",
+  "python":  "CPython 3.12.4",
+  "startedAt":  "2025-09-06T00:12:36.893808Z",
+  "program":  "C:\\Users\\USUARIO\\Desktop\\SemestreVII\\Aprendizaje\\redesneuronales_pytorch.py",
+  "codePath":  "redesneuronales_pytorch.py",
+  "codePathLocal":  "redesneuronales_pytorch.py",
+  "email":  "a01637721@tec.mx",
+  "root":  "C:\\Users\\USUARIO\\Desktop\\SemestreVII\\Aprendizaje",
+  "host":  "DESKTOP-QDJU2PR",
+  "executable":  "C:\\Users\\USUARIO\\AppData\\Local\\Programs\\Python\\Python312\\python.exe",
+  "cpu_count":  4,
+  "cpu_count_logical":  8,
+  "disk":  {
+    "/":  {
+      "total":  "478962855936",
+      "used":  "397083291648"
+    }
+  },
+  "memory":  {
+    "total":  "8470659072"
+  },
+  "writerId":  "ugngd1vbg3uldm0ook4e1ewf2csn0mmh"
+}

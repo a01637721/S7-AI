@@ -1,0 +1,5 @@
+Epoch 1: Test Loss=0.1581, Accuracy=95.31%
+Epoch 2: Test Loss=0.1165, Accuracy=96.39%
+Epoch 3: Test Loss=0.1050, Accuracy=96.65%
+Epoch 4: Test Loss=0.0924, Accuracy=97.17%
+Epoch 5: Test Loss=0.1180, Accuracy=96.44%

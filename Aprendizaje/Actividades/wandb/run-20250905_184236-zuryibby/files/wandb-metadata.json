@@ -1,0 +1,24 @@
+{
+  "os":  "Windows-10-10.0.19045-SP0",
+  "python":  "CPython 3.12.4",
+  "startedAt":  "2025-09-06T00:42:36.134101Z",
+  "program":  "C:\\Users\\USUARIO\\Desktop\\SemestreVII\\Aprendizaje\\clasificador_multiclase_pytorch_MNIST.py",
+  "codePath":  "clasificador_multiclase_pytorch_MNIST.py",
+  "codePathLocal":  "clasificador_multiclase_pytorch_MNIST.py",
+  "email":  "a01637721@tec.mx",
+  "root":  "C:\\Users\\USUARIO\\Desktop\\SemestreVII\\Aprendizaje",
+  "host":  "DESKTOP-QDJU2PR",
+  "executable":  "C:\\Users\\USUARIO\\AppData\\Local\\Programs\\Python\\Python312\\python.exe",
+  "cpu_count":  4,
+  "cpu_count_logical":  8,
+  "disk":  {
+    "/":  {
+      "total":  "478962855936",
+      "used":  "397119066112"
+    }
+  },
+  "memory":  {
+    "total":  "8470659072"
+  },
+  "writerId":  "einisjogmzgb7s1g9r3drsag0numxj7u"
+}
