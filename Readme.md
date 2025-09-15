@@ -11,6 +11,7 @@
 ### --- ModeloConLibs (Modelo "CON" uso de Librerías)
 
    - ReadMe.md (Instrucciones de ejecución)
+   - Reporte y análisis sobre el desempeño del modelo
 
 
 
