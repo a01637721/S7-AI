@@ -7,14 +7,14 @@
 
 ---
 
-# Estructura
---- ModeloConLibs (Modelo "CON" uso de Librerías)
+## Estructura
+### --- ModeloConLibs (Modelo "CON" uso de Librerías)
 
    - ReadMe.md (Instrucciones de ejecución)
 
 
 
---- ModeloSinLibs (Modelo "SIN" uso de Librerías)
+### --- ModeloSinLibs (Modelo "SIN" uso de Librerías)
    - ReadMe.md (Instrucciones de ejecución)
 
 
